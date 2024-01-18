@@ -1,3 +1,10 @@
 # HTML-and-CSS-Projects
 This repository is for my HTML and CSS projects.
-Any future projects that i create that use the languages HTML and CSS will all be placed here in this repository.
+These are some projects I have created using HTML and CSS.
+# Projects
+<ul>
+  <li><a href="/project/index.html">Anime Art Gallery site</a></li>
+  <li><a href="bootstrap4_project">Movie Theater site</a></li>
+  <li>And a couple other simple CSS styled projects</li>
+  
+</ul>
